@@ -6,3 +6,4 @@ tags:
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
+This is all about how to learn GIS
