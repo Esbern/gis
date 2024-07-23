@@ -1,6 +1,6 @@
 ---
 title: Using the Digital Garden for GIS Learning
-draft: true
+draft: false
 tags:
   - Digital-Garden
 ---
