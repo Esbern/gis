@@ -1,9 +1,9 @@
 ---
-title: Learning
-draft: false
+title: GIS
+draft: true
 tags:
-  - example-tag
+  - GIS
+  - geospatial-technologies
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
-# This is all about learning GIS v2
