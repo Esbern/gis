@@ -3,7 +3,6 @@ title: Ultra-learning
 draft: false
 tags:
   - Ultra-learning
-  - GIS
 ---
 
 ### Ultra-Learning: Mastering GIS Intensively and Efficiently

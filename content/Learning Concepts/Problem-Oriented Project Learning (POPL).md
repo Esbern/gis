@@ -1,8 +1,9 @@
 ---
 title: "Problem-Oriented Project Learning (POPL):"
-draft: true
+draft: false
 tags:
   - POPL
+  - Problem-Oriented-Project-Learning
 ---
  ### Problem-Oriented Project Learning (POPL): Tackling Real-World GIS Challenges
 
