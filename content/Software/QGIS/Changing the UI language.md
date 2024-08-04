@@ -1,6 +1,6 @@
 ---
 title: Changing the UI language
-draft: true
+draft: false
 tags:
   - QGIS
   - Demo
