@@ -18,9 +18,10 @@ Start by identifying a real-world problem relevant to your interests or professi
 - **Urban Planning**: Assess the impact of new developments on green spaces in a city.
 - **Environmental Monitoring**: Track changes in land use and their effects on local ecosystems.
 - **Urban Design**: Redesign the lighting of an open space to make it feel more secure and ammoniated after dark.
-#### 2. **Document Your Process and Design Rationales**
+#### 2. **Document Your Process and Design choices**
 
-Keep detailed records of your project process and the decisions you make along the way. Maintaining a Project journal or a so-called design rationale helps you and others understand the reasoning behind your methods and solutions. (There is an excellent article on [Wikipedia on design rationals](https://en.wikipedia.org/wiki/Design_rationale))
+Keep detailed records of your project process and the decisions you make along the way. Maintaining  a so-called [[Design Rationale]] helps you and others understand the reasoning behind your methods and solutions. 
+
 
 **Example:**
 - Maintain a project journal where you note each step, the challenges you faced, and how you resolved them. Explain why you chose specific data sources, analysis methods, and visualisation techniques. Do not only document the data and methods you chose but also relevant alternatives and why you chose one in favour of another.
