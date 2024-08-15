@@ -1,6 +1,6 @@
 ---
 title: Integrating Generative AI
-draft: true
+draft: false
 tags:
   - Generative-AI
   - Learning
