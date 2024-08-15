@@ -4,8 +4,9 @@ draft: false
 tags:
   - QGIS
   - Demo
+  - moc
 ---
  
-A list of the qgis demos found on the site
+This is where you find short demos of how to perform a specific task in  [[QGIS]]
 ## Modifying the user interface:
 - [[Changing the UI language]]

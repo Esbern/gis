@@ -13,7 +13,7 @@ Installing QGIS is relatively easy just go to https://www.qgis.org/download/. Th
 
 ## Costimising QGIS
 
-QGIS has a lot of options to customise how it looks and feels. It can, therefore, sometimes be difficult to follow [documentation](https://www.qgis.org/resources/hub/) /[[Tutorials]][Demo](qgis-demos.md). There are two primary customisations you will need to master in order to make your QGIS look like the one someone else is using or in time look how you want it to look, and that is [[Changing the UI language]] and [[showing hiding and moving the UI panels]]
+QGIS has a lot of options to customise how it looks and feels. It can, therefore, sometimes be difficult to follow [documentation](https://www.qgis.org/resources/hub/) /[[Tutorials]]/[[QGIS demos|Demos]]. There are two primary customisations you will need to master in order to make your QGIS look like the one someone else is using or in time look how you want it to look, and that is [[Changing the UI language]] and [[showing hiding and moving the UI panels]]
 
 ## Accessing data in QGIS
 

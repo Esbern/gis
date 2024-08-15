@@ -4,7 +4,7 @@ draft: true
 tags:
   - Learning
 ---
-**Breaking Out of the Tutorial Trap**
+## Breaking Out of the Tutorial Trap
 Most learning resources out there stick to the same old formula: watch a bunch of tutorials and hope something sticks. But let’s be honest—how often does that really work? 
 While tutorials can give a sense of quick progress, the problem is that all too common educational problems transfer. i.e. the ability to transfer what you have learned in one context to another, and the most tutorials fail miserably. 
 

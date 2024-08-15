@@ -1,6 +1,6 @@
 ---
 title: ArcGIS pro
-draft: true
+draft: false
 tags:
   - ArcGIS
   - GIS
