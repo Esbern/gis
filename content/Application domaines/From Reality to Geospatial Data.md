@@ -18,4 +18,7 @@ Talking about reality is always scary, for what is reality? Instead of trying to
 
 ## Defining the world of discourse
 While an individual [[GIS project]] does not define its own world of observation, which is a common abstract term, each project defines its own [[world of discourse]] that defines who and what we see in the [[world of observation]]. Defining the [[world of discourse]] or a [[GIS project]] is one of the most important elements in writing the [[Design Rationale]] of the project since it defines which information in terms of data is to be the foundation of the project. 
-The [[world of discourse]] is sometimes also called the conceptual data model for the project and is typicaly defined in terms of a [[Ontology]]
+The world of discourse is sometimes also called the conceptual data model for the project and is typically defined in terms of an [[Ontology]]. If the Ontology is defined in enough detail, it can be directly translated into a [[data structure]].
+
+## Defining a data structure
+While an [[ontology]] is a conceptual representation of the [[world of discourse]], the [[data structure]] is a formal representation implemented in some specific data management software. Specifying a data structure for a GIS project can, on the one hand, be surprisingly simple but can also become really complex, especially if you are working on a GIS project that utilises advanced data management software such as [[Postgres]]. I recommend that you start by extending your ontology with a generalised data structure and then convert this to a more complex data structure if needed

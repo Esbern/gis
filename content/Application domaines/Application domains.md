@@ -11,5 +11,5 @@ Some of the highlighted  application domains are:
 - [[Energy planning]]
 - [[3D urban visualisation and planning]]
 - [[Environmental planning]]
-- 
+- [[Public Transportation Analysis and Accessibility Planning]]
 
