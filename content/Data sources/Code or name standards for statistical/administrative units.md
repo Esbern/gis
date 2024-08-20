@@ -1,8 +1,7 @@
 ---
 title: administrative units
 draft: true
-tags:
-  - example-tag
+tags: []
 ---
 Important coding standards are 
 - NUTS 
