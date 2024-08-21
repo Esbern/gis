@@ -44,3 +44,7 @@ We often need to present maps in an interactive form to a larger audience, so be
 
 ### Python and Geospatial Data
 The programming language Python is the all-dominating programming language when it comes to processing geospatial data. be it for automating and extending general purposes GIS apps or as a stand-alone environment. 
+
+## Selecting the right environment for advanced geospatial analysis. 
+
+When working with complex software  and especially programming environments that use multiple libraries setting up [[Advanced Environments for Geospatial Processing]] becomes very important
