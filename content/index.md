@@ -2,16 +2,34 @@
 title: Welcome to The GIS garden
 tags: []
 ---
-Welcome to my digital garden of **[[GIS]]** and other geospatial technologies. I have created hundreds of GIS tutorial videos and tried to organise them into nicely structured websites. Still, I have never really been happy with this way of sharing my knowledge of GIS and other geospatial technologies. I have therefore decided to try another approach to sharing my knowledge, namely a digital garden.  This digital garden is a public web-based semi-curated view of my personal notes on GIS and other geospatial technologies. Some notes are created as learning resources entirely with the purpose of sharing knowledge, while other notes are created as tools in my personal learning process. 
+Welcome to my digital garden of **[[GIS]]** and other [[Geospatial Technologies]]. This digital garden is a public web-based semi-curated view of my personal notes on these technologies. Some notes are created as learning resources entirely with the purpose of sharing knowledge, while others are primarily created as part of my [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management).
 
-If it is your first time on the site, please read:
+## Organising the GIS Digital Garden
+This garden reflects the evolving nature of [[GIS]] and the diverse ways [[GIS project]]s can be implemented. Here’s a brief overview of how the garden is structured:
+
+### Processing Environments
+The processing environment is the face of the [[GIS]], defining how you interact with it and probably what most people associate with a GIS, such as [[ArcGIS Pro]] or [[QGIS]]. However, the processing environment is only the tip of the iceberg. The "real power" of a GIS lies in the geospatial tool collection it sits atop. These geospatial tool collections can often be accessed through multiple different processing environments, not only Graphical User Interfaces (GUI) as we know it from QGIS or ArcGIS Pro but also  "programming first" environments such as JupyterLab or **“Graphical Workflow Builder.”** such as "Model builder". 
+_Explore more about [[Choosing the right processing environment]]._
+
+### Tool collection 
+The backbone of any [[GIS]] lies in the Geospatial tool collection it utilises to do the heavy lifting of geospatial data analysis. This garden explores various Geospatial tool collections, from specialised tool collections like **GDAL** to general geospatial analytical tools such as "[[Whitebox geospatial]]". We will also cover some tool collections from "adjacent" topics, such as [[Plotly]] and [[Matplotlib]] for general data visualisation and [[Unreal Engine]] for [[real-time 3D rendering]].
+
+### Geospatial data
+While it is outside the scope of this garden to provide access to data sources, we will discuss how to design data structures, different [[Data formats]] and some main access routes, especially, Danish data such as Dataforsyningen, geo-data.info.
+
+### GIS projects
+A **GIS project** is more than just the the processing enviorment and the underlying tool collections and geospatial data. It’s a structured endeavor that encompasses goals, methods, data, and tools, operating within an **organizational framework** to achieve specific objectives. This garden contains noten on subjects relating to how to design and implement your GIS projects such as covering the process [[From Reality to Geospatial Data]] and how to write a [[Design Rationale]]
+
+### **Getting Started**
+
+If this is your first time visiting the garden, I recommend checking out these foundational notes:
 - [[My thoughts on learning GIS]].
-- [[Integrating Generative AI]].
+- [[Integrating Generative AI with your learning process]].
 - [[This site is a Digital Garden]].
 - [[Navigating the site]].
 
-If you are ready to explore the garden, jump to one of the Maps of Content (MOCs) in the [[Map of Content Collection|collection]] or directly to one of the base MOCs
+Ready to explore? You can jump to one of the Maps of Content (MOCs) in the [[Map of Content Collection|collection]] or directly to one of the base MOCs:
 
-- [[Choosing the right Software for the job]].
+- [[Choosing the right processing environment]].
 - [[From Reality to Geospatial Data]].
 - [[3D urban visualisation and planning]].
