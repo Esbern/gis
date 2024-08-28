@@ -35,7 +35,7 @@ Understanding and optimising these journey segments, particularly the first and 
 ### **Route Planning and Analysis Tools**
 
 1. **[[OpenTripPlanner]] (OTP)**:
-   OpenTripPlanner is an open-source tool designed for individual route planning across multiple transportation modes, including walking, cycling, driving, and public transit. By integrating OSM for street and path data with GTFS/NeTEx for transit information, OTP excels at providing detailed, multimodal itineraries that consider the entire journey, including the first and last miles.
+   OpenTripPlanner is an open-source tool designed for individual route planning across multiple transportation modes, including walking, cycling, driving, and public transit. By integrating OSM for street and path data with [[GTFS]]/[[NeTEx]] for transit information, OTP excels at providing detailed, multimodal itineraries that consider the entire journey, including the first and last miles.
 
 2. **[[Conveyal R5]]**:
    Conveyal R5 is an advanced routing engine designed for large-scale transportation analysis. Unlike OTP, which focuses on individual routes, R5 is geared toward analysing broader mobility patterns across entire metropolitan areas. It's particularly useful for scenario planning and evaluating the impact of infrastructure changes on accessibility, making it a powerful tool for public transportation planning.

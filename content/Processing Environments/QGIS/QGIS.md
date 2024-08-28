@@ -1,6 +1,6 @@
 ---
 title: QGIS
-draft: true
+draft: false
 tags:
   - QGIS
   - GIS

@@ -2,7 +2,7 @@
 title: Welcome to The GIS garden
 tags: []
 ---
-Welcome to my digital garden of **[[GIS]]** and other [[Geospatial Technologies]]. This digital garden is a public web-based semi-curated view of my personal notes on these technologies. Some notes are created as learning resources entirely with the purpose of sharing knowledge, while others are primarily created as part of my [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management).
+Welcome to my digital garden of **[[GIS]]** and [[Geoinformatics]] This digital garden is a public web-based semi-curated view of my personal notes on these technologies. Some notes are created as learning resources entirely with the purpose of sharing knowledge, while others are primarily created as part of my [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management).
 
 ## Organising the GIS Digital Garden
 This garden reflects the evolving nature of [[GIS]] and the diverse ways [[GIS project]]s can be implemented. Here’s a brief overview of how the garden is structured:
@@ -15,7 +15,7 @@ _Explore more about [[Choosing the right processing environment]]._
 The backbone of any [[GIS]] lies in the Geospatial tool collection it utilises to do the heavy lifting of geospatial data analysis. This garden explores various Geospatial tool collections, from specialised tool collections like **GDAL** to general geospatial analytical tools such as "[[Whitebox geospatial]]". We will also cover some tool collections from "adjacent" topics, such as [[Plotly]] and [[Matplotlib]] for general data visualisation and [[Unreal Engine]] for [[real-time 3D rendering]].
 
 ### Geospatial data
-While it is outside the scope of this garden to provide access to data sources, we will discuss how to design data structures, different [[Data formats]] and some main access routes, especially, Danish data such as Dataforsyningen, geo-data.info.
+While it is outside the scope of this garden to provide access to data sources, we will discuss how to design data structures, different [[Data Formats and Standards]] and some main access routes, especially, Danish data such as Dataforsyningen, geo-data.info.
 
 ### GIS projects
 A **GIS project** is more than just the the processing enviorment and the underlying tool collections and geospatial data. It’s a structured endeavor that encompasses goals, methods, data, and tools, operating within an **organizational framework** to achieve specific objectives. This garden contains noten on subjects relating to how to design and implement your GIS projects such as covering the process [[From Reality to Geospatial Data]] and how to write a [[Design Rationale]]

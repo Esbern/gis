@@ -3,7 +3,7 @@ title: Projection
 draft: false
 tags:
 ---
-### **Note: Projections as Part of a Coordinate Reference System**
+
 
 **Projections** are a fundamental component of a **[[Coordinate Reference System (CRS)]]** and play a crucial role in the design and interpretation of maps. When we represent the curved surface of the Earth on a flat map, we use a projection to transform geographic coordinates (latitude and longitude) into Cartesian coordinates (x and y) on a plane. This transformation is necessary for creating maps, but it also introduces distortions that must be carefully managed depending on the purpose of the map.
 
