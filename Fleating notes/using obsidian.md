@@ -16,3 +16,8 @@ https://medium.com/@dianademco/writing-in-obsidian-a-comprehensive-guide-58a1306
 
 **Obsidion of Zotero**
 https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd
+
+
+**sync med quarts**
+
+npx quartz sync
