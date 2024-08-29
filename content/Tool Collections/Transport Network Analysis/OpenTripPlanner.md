@@ -3,7 +3,6 @@ title: Open Trip Planner  (OTP)
 draft: false
 tags:
 ---
-
 **OpenTripPlanner (OTP)** is an advanced, open-source route planning software designed to provide individualised journey suggestions based on multiple criteria, making it a powerful tool for both users and transportation planners. Unlike simpler route planners that focus solely on departure times, OTP takes into account a range of factors such as arrival time, the number of transfers, and accessibility options, offering highly tailored travel solutions.
 
 ### **Key Features of OpenTripPlanner**
@@ -57,7 +56,7 @@ Once the graph is built, the OTP server can be started. There are three main way
     
 ## Getting data into OTP
 By default, the way OTP works is to have a configuration folder for each instance (spatial area , search defaults etc). This folder contains the configuration files stored as [[JSON]]  files as well as the data i.e [[OpenStreetMap]] and timetable data.
-If we first look at getting [[OpenStreetMap]] data into OTP, the data needs to be stored as an "oms.pdf" file. These files can, for instance, be downloaded from https://download.geofabrik.de/. here we, for instance, can download Denmark. If we wish to work with a smaller area of the total country,  the "[[OSM.PBF]]" file can be spatially clipped using either a boundary box or a polygon stored in [[GeoJSON]]
+If we first look at getting [[OpenStreetMap]] data into OTP, the data needs to be stored as an "oms.pdf" file. These files can, for instance, be downloaded from https://download.geofabrik.de/. Here, we, for instance, can download Denmark. If we wish to work with a smaller area of the total country,  the "[[OSM.PBF]]" file can be spatially clipped using either a [[Bounding Box]] or a polygon stored in [[GeoJSON]]. 
 
 ## Running OTP as a JAR file
 The default distribution of OTP is as a "shaded" JAR file, i.e. a monolithic JAR file that contains all needed to run the program. For most uses, this is the best way of running OTP.  Ensure there is a Java runtime (JRE) or Java Development Kit (JDK) on the computer, or download  OPT v2.5 using at least Jave 21. There is a good simple start tutorial at https://docs.opentripplanner.org/en/latest/Basic-Tutorial/. However, note that the memory setting in the tutorial is probably too small for most uses, so increasing `-Xmx2G` to `-Xmx4G` giving the software 4G RAM is probably needed, especialy for larger nares (more complex road network)

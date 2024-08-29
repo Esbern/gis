@@ -11,7 +11,7 @@ In geospatial data, understanding dimensions is critical to accurately modeling,
 
 1. **0-Dimensional Objects (Points)**:
    - **Definition**: A point is a 0-dimensional geometric object representing a single, specific location in space without any extension in any direction.
-   - **Examples**: Points can represent locations such as cities, trees, or sensor stations.
+   - **Examples**: [[Point]]s can represent locations such as cities, trees, or sensor stations.
    - **Dimensionality vs. Space**: A point remains a 0-dimensional object whether it's defined in 2D space (X, Y) or 3D space (X, Y, Z).
 
 2. **1-Dimensional Objects (Lines and Curves)**:
