@@ -79,7 +79,7 @@ Registrar, Assesment Analytic**
 > An automatic bicycle counter is set up on a bike path to count passing bikers. One day almost no bicyclists are registered. What the human registrar can see is that a van is parked on the bike path a few feet ahead of the automatic counter, so on that day the bicyclists veer around the counter. 
 
 > [!quote|yellow] ([page. 7](zotero://open-pdf/library/items/AL9UCLNH?page=7&annotation=D6UNBXXY))
-> ![[Reference/Assets/gehljanHowStudyPublic2013/image-22-x56-y23.png]]
+> ![[Gehl register.observ.png]]
 
 > [!quote|yellow] ([page. 11](zotero://open-pdf/library/items/AL9UCLNH?page=11&annotation=HDI6RJLX))
 > It is necessary to ask questions systematically and divide the variety of activities and people into subcategories in order to get specific and useful knowledge about the complex interaction of life and form in public space 
@@ -163,7 +163,7 @@ Registrar, Assesment Analytic**
 > Optional activities comprise strolling or jogging, sitting on a stair step, chair or bench to rest, reading the newspaper, or simply enjoying life while walking around or seated. 
 
 > [!quote|yellow] ([page. 18](zotero://open-pdf/library/items/AL9UCLNH?page=18&annotation=987E43RX))
-> ![[Reference/Assets/gehljanHowStudyPublic2013/image-33-x35-y235.png]]
+> ![[Gehl speed.png]]
 
 > [!quote|yellow] ([page. 19](zotero://open-pdf/library/items/AL9UCLNH?page=19&annotation=ALIWPR5E))
 > Question 5. How long? 
