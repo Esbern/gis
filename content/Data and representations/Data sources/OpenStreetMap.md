@@ -16,7 +16,7 @@ This flexibility is particularly beneficial in cases where local knowledge and s
 
 However, the very flexibility that makes OSM powerful can also be a drawback. The lack of a strict, standardised data model means that the same type of feature might be tagged in different ways by different contributors. This inconsistency can lead to challenges in data quality and interoperability, making it difficult to use OSM data in some GIS applications, especially those based on the relational data model.
 
-Most traditional GIS data models rely on the **[[relational data model]]**, which organise data into tables with fixed schemas. These models are designed for structured data with consistent types and categories, making them less suited to the fluid and often inconsistent nature of OSM’s tag-based data. As a result, integrating OSM data into these systems can require significant preprocessing, including standardising tags, resolving conflicts, and transforming the data into a format compatible with relational tables.
+Most traditional GIS data models rely on the **[[Relational data model]]**, which organise data into tables with fixed schemas. These models are designed for structured data with consistent types and categories, making them less suited to the fluid and often inconsistent nature of OSM’s tag-based data. As a result, integrating OSM data into these systems can require significant preprocessing, including standardising tags, resolving conflicts, and transforming the data into a format compatible with relational tables.
 
 ### **OSM as an Alternative to National Datasets**
 

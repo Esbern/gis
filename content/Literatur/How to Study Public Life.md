@@ -20,7 +20,7 @@ This text is a classic when it comes to describing methods for counting and mapp
 Gehl emphasises that "Anyone who decides to observe life in the city will quickly realise that you have to be systematic in order to get useful knowledge from the complex confusion of life in public space." This leads to a toolbox of some "standardised " methods for observing public life
 
 Gehl operates in a space between objective counting and classical **passive participant observation**. 
-![[Gehl register.observ.png]]
+
 
 He identifies three roles that the observer can assume:
 1. The role of registrar: for example, counting units, where precision is the most important function.
