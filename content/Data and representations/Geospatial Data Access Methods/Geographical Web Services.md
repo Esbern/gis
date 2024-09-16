@@ -1,17 +1,15 @@
 ---
-title: web services
+title: Geographical Web Services
 draft: false
 tags:
 ---
-Web services are a critical component of modern software architecture. They allow different applications to communicate over a network, enabling interoperability and data exchange between disparate systems, often over the Internet. Essentially, a web service is a software function provided at a network address over the web, with the service always on and ready to execute.
-
-### What is a Web Service?
+## What is a Web Service in general?
 
 A web service is a method of communication between two electronic devices over a network. It allows various applications from different sources to communicate with each other without time-consuming custom coding. They are platform-independent and enable seamless integration of various services.
 
-### Examples of Geographical Web Services
+## What is a Geographical Web Service?
 
-Geographical web services are specialized web services that handle spatial data. These services are crucial for applications requiring geographic information, such as mapping, location-based services, and spatial analysis. Let's explore two main examples of geographical web services: geocoding services and Web Feature Services (WFS).
+Geographical web services are specialised web services that handle spatial data. These services are crucial for applications requiring geographic information, such as mapping, location-based services, and spatial analysis. Let's explore two main examples of geographical web services: geocoding services and Web Feature Services (WFS).
 
 #### Geocoding Services
 

@@ -1,8 +1,16 @@
 ---
-title: Danish National Data portals
-draft: false
+title: Where to Find Danish Data
+draft: true
 tags:
 ---
+ Before looking for Danish Data, please remember that there are at least three different ways of accessing data See the note [[Geospatial Data Acces Methods]]:
+1. Web services where you access central data collection over the internet; see the note on [[Geographical Web Services]]
+2. Remote Database server connection (This is typically used within an organisation to ensure that all members of the organisation have access to the same version of a given dataset). This is typically implemented as a [[Postgres]] server connection.
+3. Data for download. Many smaller organisation as well as larger organisations that give access to data primarily used for analysis exposes the ability to download an entire dataset for use on your local computer. Data will often be in one of the [[Common Data Formats for Sharing Data]]. 
+
+Also, remember that the same data can be served as both Raster and Vector Data. See the note on [[Key differences between Raster and Vector representation]]
+
+
 It is relevant to distinguish between two types of data portals, namely:
 - Metadata portals 
 - Data warehouse portals. 
