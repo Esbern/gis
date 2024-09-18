@@ -6,7 +6,7 @@ Hi there! I'm Esbern Holmes, a teacher and GIS consultant at [Roskilde Universit
 
 You might stumble upon some dead links—that's intentional! Just like seeds in a real garden, I've planted ideas that haven't sprouted into full notes yet. These placeholders are signs of growth in progress.
 
-Feel free to explore, and if you have any comments or requests, please drop me a line at [info@gis-garden.org](mailto:info@gis-garden.org). Happy browsing!
+Feel free to explore, and if you have any comments or requests, please drop me a line at [info@gis-garden.org](mailto:info@gis-garden.org).
 
 ## Organising the GIS Digital Garden
 This garden reflects the evolving nature of [[GIS]] and the diverse ways [[GIS project]]s can be implemented. Here’s a brief overview of how the garden is structured:
