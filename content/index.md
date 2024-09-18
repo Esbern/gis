@@ -2,7 +2,11 @@
 title: Welcome to The GIS garden
 tags: []
 ---
-Welcome to my digital garden of **[[GIS]]** and [[Geoinformatics]] This digital garden is a public web-based semi-curated view of my personal notes on these technologies. Some notes are created as learning resources entirely with the purpose of sharing knowledge, while others are primarily created as part of my [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management).
+Hi there! I'm Esbern Holmes, a teacher and GIS consultant at [Roskilde University in Denmark](https://www.ruc.dk). Welcome to my digital garden of GIS and Geoinformatics. This is a place where I share my personal notes and musings on these technologies. Some notes are crafted as learning resources to share knowledge, while others are part of my own journey in personal knowledge management.
+
+You might stumble upon some dead links—that's intentional! Just like seeds in a real garden, I've planted ideas that haven't sprouted into full notes yet. These placeholders are signs of growth in progress.
+
+Feel free to explore, and if you have any comments or requests, please drop me a line at [info@gis-garden.org](mailto:info@gis-garden.org). Happy browsing!
 
 ## Organising the GIS Digital Garden
 This garden reflects the evolving nature of [[GIS]] and the diverse ways [[GIS project]]s can be implemented. Here’s a brief overview of how the garden is structured:
