@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider:"google","tagId":"G-0E71161HEH"
     },
     locale: "en-US",
     baseUrl: "gis-garden.org",
