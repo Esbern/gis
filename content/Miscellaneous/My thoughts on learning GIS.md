@@ -85,7 +85,5 @@ Think of our site as a digital garden. It’s a space where ideas grow and conne
 
 [[This site is a Digital Garden|Read more about using our and creating your own digital garden for learning GIS]]
 
-**Your Journey Starts Here**
 
-Whether you’re a professional planner aiming to integrate GIS into your work or a planning student embarking on your academic journey, you’re about to dive into an exciting and rewarding field. 
 

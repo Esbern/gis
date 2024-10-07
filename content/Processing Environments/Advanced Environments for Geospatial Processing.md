@@ -27,7 +27,7 @@ The concept of **"Computer as Code"** involves defining and managing computing e
 **Conda** and **Mamba** offer a solution to library compatibility issues by allowing you to create isolated Python environments. These environments keep your geospatial tools and libraries separate, ensuring that they don’t interfere with one another.
 
 - **Conda**: Widely used in the geospatial community, Conda allows for easy creation and management of isolated environments, making it easier to avoid library conflicts.
-- **Mamba**: A faster alternative to Conda, Mamba provides the same capabilities but with improved speed, making it ideal for managing complex geospatial projects.
+- **[[Mamba]]**: A faster alternative to Conda, Mamba provides the same capabilities but with improved speed, making it ideal for managing complex geospatial projects.
 
 **Key Benefits**:
 - **Reproducibility**: Environments can be exported and shared as configuration files, ensuring that others can replicate the exact environment you’re using.

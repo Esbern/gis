@@ -20,7 +20,7 @@ tags:
 
 
 ### Self Notes
-This first import is just to get the images this articel needs a 
+This first import is just to get the images this article needs a reed but it is a fine update to Torsten Hägerstrand oogonial time geography
 
 ---
 
