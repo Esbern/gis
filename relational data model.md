@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
  
-The **relational data model** is a foundational concept in database management and GIS, designed to organize data into tables (also known as relations). Each table consists of rows (records) and columns (attributes), where each column holds data of a specific type, such as integers, floats, or text. This structured approach allows for the efficient storage, retrieval, and manipulation of data using SQL (Structured Query Language), which is the standard language for querying and managing relational databases.
+The **relational data model** is a foundational concept in database management and GIS, designed to organize data into tables (also known as relations). Each table consists of rows (records) and columns (attributes), where each column holds data of a specific type, such as integers, floats, or text. This structured approach allows for the efficient storage, retrieval, and manipulation of data using [[SQL]] (Structured Query Language), which is the standard language for querying and managing [[Relational Database (Concept)|Relational Databases]] .
 
 ### **Key Concepts of the Relational Data Model**
 
