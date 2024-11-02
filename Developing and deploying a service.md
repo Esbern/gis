@@ -15,7 +15,7 @@ In this demo, I will show how to create a simple Python web app using plotly das
 `├── docker-compose.yml`
 `├── entrypoint.sh`
 `└── requirements.txt`
- The app subfolder contains the code for the application the conten of the files are simply :
+ The app subfolder contains the code for the application; the content of the files are simply :
  
  **app/__init__.py**
 ```

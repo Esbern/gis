@@ -38,3 +38,5 @@ tags:
 
 **NeTEx vs. GTFS**
 While **[[GTFS]] (General Transit Feed Specification)** is a simpler and more widely adopted format, especially in North America, NeTEx offers a much richer and more detailed data model. [[GTFS]] is often preferred for basic public transport applications due to its simplicity and ease of use, but NeTEx provides the depth needed for advanced applications, such as detailed fare modelling, operational planning, and multi-modal integration.
+
+Accessing NeTEx for Denmark, see [[Traffic and Mobility data (Dataudveksleren)#Rejseplanen NeTEx|Rejseplanen NeTEx]]

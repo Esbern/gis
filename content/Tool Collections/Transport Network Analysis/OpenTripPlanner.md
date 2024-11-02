@@ -22,9 +22,9 @@ tags:
 ### **Data Sources Supported by OpenTripPlanner**
 
 1. **Transit Data**:
-   OTP can use both **GTFS (General Transit Feed Specification)** and **NeTEx (Network Timetable Exchange)** data for the transit section of the journey. GTFS is widely used for basic public transit data, while NeTEx provides a more detailed and feature-rich alternative, allowing OTP to accurately model and optimize complex transit systems.
+   OTP can use both **[[GTFS]] (General Transit Feed Specification)** and **[[NeTEx]] (Network Timetable Exchange)** data for the transit section of the journey. [[GTFS]] is widely used for basic public transit data, while [[NeTEx]] provides a more detailed and feature-rich alternative, allowing OTP to model and optimise complex transit systems accurately.
 
-2. **OpenStreetMap (OSM) Data**:
+2. **[[OpenStreetMap]] (OSM) Data**:
    OTP consumes OpenStreetMap data in the `.osm.pbf` format, which is a compact binary format used to store and distribute OSM data. This data provides the detailed street and path networks necessary for modeling the first and last mile of journeys, as well as walking, cycling, and driving routes within urban environments.
 
 ### **Algorithms Used in OpenTripPlanner**
@@ -56,7 +56,7 @@ Once the graph is built, the OTP server can be started. There are three main way
     
 ## Getting data into OTP
 By default, the way OTP works is to have a configuration folder for each instance (spatial area , search defaults etc). This folder contains the configuration files stored as [[JSON]]  files as well as the data i.e [[OpenStreetMap]] and timetable data.
-If we first look at getting [[OpenStreetMap]] data into OTP, the data needs to be stored as an "oms.pdf" file. These files can, for instance, be downloaded from https://download.geofabrik.de/. Here, we, for instance, can download Denmark. If we wish to work with a smaller area of the total country,  the "[[OSM.PBF]]" file can be spatially clipped using either a [[Bounding Box]] or a polygon stored in [[GeoJSON]]. 
+If we first look at getting [[OpenStreetMap]] data into OTP, the data needs to be stored as an "oms.pdf" file. These files can, for instance, be downloaded from https://download.geofabrik.de/. Here, we, for instance, can download Denmark. If we wish to work with a smaller area of the total country,  the "[[OSM.PBF]]" file can be spatially clipped using [[OSM.PBF#Tools for Manipulating OSM Files|OSM.PBFTools]] and [[Bounding Box]] or a polygon stored in [[GeoJSON]]. 
 
 ## Running OTP as a JAR file
 The default distribution of OTP is as a "shaded" JAR file, i.e. a monolithic JAR file that contains all needed to run the program. For most uses, this is the best way of running OTP.  Ensure there is a Java runtime (JRE) or Java Development Kit (JDK) on the computer, or download  OPT v2.5 using at least Jave 21. There is a good simple start tutorial at https://docs.opentripplanner.org/en/latest/Basic-Tutorial/. However, note that the memory setting in the tutorial is probably too small for most uses, so increasing `-Xmx2G` to `-Xmx4G` giving the software 4G RAM is probably needed, especialy for larger nares (more complex road network)
@@ -72,6 +72,6 @@ There is a docker image that can relatively easily be started in the case the fo
 > # `build graph and save it onto the host system via the volume`
 > `docker run --rm -v ./berlin:/var/opentripplanner docker.io/opentripplanner/opentripplanner:latest --build --save`
 > # `load and serve graph`
-> `docker run -it --rm -p 8080:8080 -v ./berlin:/var/opentripplanner docker.io/opentripplanner/opentripplanner:latest --load --serve`
+> `docker run -it --rm -p 8080:8080 -v ./berlin:/var/opentripplanner docker.io/c/opentripplanner:latest --load --serve`
 
 
